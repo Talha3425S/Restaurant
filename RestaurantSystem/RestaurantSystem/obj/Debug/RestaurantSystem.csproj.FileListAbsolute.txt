@@ -1,0 +1,13 @@
+c:\users\talha\onedrive\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\bin\Debug\RestaurantSystem.exe.config
+c:\users\talha\onedrive\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.csprojResolveAssemblyReference.cache
+c:\users\talha\onedrive\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.adminForm.resources
+c:\users\talha\onedrive\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.Form1.resources
+c:\users\talha\onedrive\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.Properties.Resources.resources
+c:\users\talha\onedrive\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.csproj.GenerateResource.Cache
+c:\users\talha\onedrive\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\bin\Debug\RestaurantSystem.exe
+c:\users\talha\onedrive\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\bin\Debug\RestaurantSystem.pdb
+c:\users\talha\onedrive\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.exe
+c:\users\talha\onedrive\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.pdb
+c:\users\talha\onedrive\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.customerForm.resources
+c:\users\talha\onedrive\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.orderForm.resources
+c:\users\talha\onedrive\documents\visual studio 2012\Projects\RestaurantSystem\RestaurantSystem\obj\Debug\RestaurantSystem.paymentForm.resources
